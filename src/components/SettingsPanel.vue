@@ -183,7 +183,7 @@ async function uploadWallpaper(event: Event) {
     <p class="hint">当前版本支持本地保存与手动备份，尚未接入账号和云端同步。</p>
   </section>
   <section v-if="tab === 'about'" class="settings-section about-section">
-    <div class="about-logo"><span>N</span><span>A</span><span>V</span><span>.</span></div>
+    <div class="about-logo"><img :src="theme.logo!" alt="ZTab" /></div>
     <h3>学术生活导航</h3>
     <p class="body-copy">把常用的网站、实用的工具与片刻的灵感，安放在一个舒适的首页。</p>
     <a

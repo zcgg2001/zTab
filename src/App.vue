@@ -417,8 +417,8 @@ function imported() {
       :style="{ background: `rgba(0,0,0,${state.preferences.dim})` }"
     ></div>
     <aside class="sidebar" aria-label="分类导航">
-      <button class="brand" aria-label="回到首页" @click="switchGroup(groups[0].id)">
-        <img :src="theme.logo!" alt="NAV." />
+      <button class="brand" aria-label="ZTab，回到首页" @click="switchGroup(groups[0].id)">
+        <img :src="theme.logo!" alt="ZTab" />
       </button>
       <nav class="group-navigation">
         <button

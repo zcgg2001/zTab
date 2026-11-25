@@ -75,6 +75,7 @@ def clean(item):
 
 for key in theme:
     theme[key] = mapping[theme[key]]
+theme['logo'] = '/ztab-logo.svg'
 navigation = {'links': [clean(x) for x in data['link']], 'dock': [clean(x) for x in data['tabbar']]}
 
 # Optional rendered-DOM and Dock snapshots override icons updated by mTab after
