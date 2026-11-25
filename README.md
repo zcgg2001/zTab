@@ -22,6 +22,14 @@ npm run preview  # 预览 dist 构建产物
 
 `dist/` 可以部署到任意静态网站托管。没有数据库或服务器依赖。
 
+## GitHub Pages
+
+站点地址：[https://ztab.505zc.me/](https://ztab.505zc.me/)。推送到 `main` 后，GitHub Actions 会自动安装依赖、构建并部署 `dist/`。
+
+仓库的 Pages 发布源使用 **GitHub Actions**，自定义域名为 `ztab.505zc.me`，同时保存在 `public/CNAME`。Cloudflare DNS 配置 `CNAME ztab → zcgg2001.github.io`，代理状态使用 **仅 DNS**。证书签发后开启 Pages 的 **Enforce HTTPS**。
+
+项目按自定义域名的根路径部署；更换为 `github.io/zTab/` 子路径时，需要同时调整 Vite 的 `base` 和数据中的资源路径。
+
 ## 已实现
 
 - 5 个分类，252 条公开网站书签、24 个组件/文件夹，以及 7 个底部快捷入口。
