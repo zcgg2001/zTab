@@ -1,0 +1,1324 @@
+{
+  "cityid": "101010100",
+  "city": "北京",
+  "cityEn": "beijing",
+  "country": "中国",
+  "countryEn": "China",
+  "update_time": "2026-11-26 01:34:00",
+  "data": [
+    {
+      "day": "26日（星期四）",
+      "date": "2026-11-26",
+      "week": "星期四",
+      "wea": "霾",
+      "wea_img": "wu",
+      "wea_day": "晴",
+      "wea_day_img": "qing",
+      "wea_night": "多云",
+      "wea_night_img": "yun",
+      "tem": "-0.6",
+      "tem1": "9",
+      "tem2": "-1",
+      "humidity": "65%",
+      "visibility": "5km",
+      "pressure": "1006",
+      "win": [
+        "西南风",
+        "北风"
+      ],
+      "win_speed": "<3级",
+      "win_meter": "0km/h",
+      "sunrise": "07:10",
+      "sunset": "16:52",
+      "air": "96",
+      "air_level": "良",
+      "air_tips": "空气质量可接受，但某些污染物可能对极少数异常敏感人群健康有较弱影响。",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_title": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "20时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "2",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "21时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "22时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "00时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "东风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "01时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "-1",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "03时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "-1",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "04时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "0",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "06时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "0",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "07时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "0",
+          "win": "东风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "中等",
+          "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较不宜",
+          "desc": "天气寒冷，推荐您进行室内运动。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "寒冷",
+          "desc": "建议着厚羽绒服等隆冬服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "",
+      "uvDescription": ""
+    },
+    {
+      "day": "27日（星期五）",
+      "date": "2026-11-27",
+      "week": "星期五",
+      "wea": "多云",
+      "wea_img": "yun",
+      "wea_day": "多云",
+      "wea_day_img": "yun",
+      "wea_night": "多云",
+      "wea_night_img": "yun",
+      "tem": "13",
+      "tem1": "13",
+      "tem2": "2",
+      "humidity": "39%",
+      "visibility": "19.81km",
+      "pressure": "1004",
+      "win": [
+        "西南风",
+        "西北风"
+      ],
+      "win_speed": "<3级转3-4级",
+      "win_meter": "",
+      "sunrise": "07:11",
+      "sunset": "16:51",
+      "air": "134",
+      "air_level": "轻度污染",
+      "air_tips": "",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "08时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "0",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "09时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "3",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "10时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "6",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "11时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "9",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "12时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "10",
+          "win": "东风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "13时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "12",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "14时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "13",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "15时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "12",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "16时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "12",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "17时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "11",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "18时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "10",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "19时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "10",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "20时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "10",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "21时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "7",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "22时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "7",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "7",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "00时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "7",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "01时",
+          "wea": "多云",
+          "wea_img": "yun",
+          "tem": "7",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "7",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "03时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "6",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "04时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "6",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "6",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "06时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "5",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "07时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "5",
+          "win": "南风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "弱",
+          "desc": "辐射较弱，涂擦SPF12-15、PA+护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较适宜",
+          "desc": "气温较低，在户外运动请注意增减衣物。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "较冷",
+          "desc": "建议着厚外套加毛衣等服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "2",
+      "uvDescription": "低"
+    },
+    {
+      "day": "28日（星期六）",
+      "date": "2026-11-28",
+      "week": "星期六",
+      "wea": "晴转多云",
+      "wea_img": "yun",
+      "wea_day": "晴",
+      "wea_day_img": "qing",
+      "wea_night": "多云",
+      "wea_night_img": "yun",
+      "tem": "10",
+      "tem1": "10",
+      "tem2": "-1",
+      "humidity": "24%",
+      "visibility": "20.77km",
+      "pressure": "1011",
+      "win": [
+        "西北风",
+        "西北风"
+      ],
+      "win_speed": "<3级",
+      "win_meter": "",
+      "sunrise": "07:12",
+      "sunset": "16:51",
+      "air": "69",
+      "air_level": "良",
+      "air_tips": "",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "08时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "5",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "09时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "7",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "10时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "8",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "11时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "12时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "13时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "10",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "14时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "10",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "15时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "16时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "7",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "17时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "6",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "18时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "5",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "19时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "3",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "20时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "2",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "21时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "22时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "00时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "01时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "03时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "04时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "06时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "07时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "南风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "中等",
+          "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较适宜",
+          "desc": "气温较低，在户外运动请注意增减衣物。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "较冷",
+          "desc": "建议着厚外套加毛衣等服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "2",
+      "uvDescription": "低"
+    },
+    {
+      "day": "29日（星期日）",
+      "date": "2026-11-29",
+      "week": "星期日",
+      "wea": "晴",
+      "wea_img": "qing",
+      "wea_day": "晴",
+      "wea_day_img": "qing",
+      "wea_night": "晴",
+      "wea_night_img": "qing",
+      "tem": "9",
+      "tem1": "9",
+      "tem2": "-1",
+      "humidity": "25%",
+      "visibility": "20.59km",
+      "pressure": "1017",
+      "win": [
+        "西南风",
+        "南风"
+      ],
+      "win_speed": "<3级",
+      "win_meter": "",
+      "sunrise": "07:13",
+      "sunset": "16:51",
+      "air": "49",
+      "air_level": "优",
+      "air_tips": "",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "08时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "09时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "3",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "10时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "6",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "11时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "8",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "12时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "8",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "13时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "14时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "15时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "16时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "17时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "10",
+          "win": "西风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "18时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "7",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "19时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "4",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "20时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "2",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "-1",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "南风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "中等",
+          "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较适宜",
+          "desc": "气温较低，在户外运动请注意增减衣物。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "较冷",
+          "desc": "建议着厚外套加毛衣等服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "2",
+      "uvDescription": "低"
+    },
+    {
+      "day": "30日（星期一）",
+      "date": "2026-11-30",
+      "week": "星期一",
+      "wea": "晴",
+      "wea_img": "qing",
+      "wea_day": "晴",
+      "wea_day_img": "qing",
+      "wea_night": "晴",
+      "wea_night_img": "qing",
+      "tem": "12",
+      "tem1": "12",
+      "tem2": "1",
+      "humidity": "38%",
+      "visibility": "19.25km",
+      "pressure": "1013",
+      "win": [
+        "南风",
+        "西北风"
+      ],
+      "win_speed": "<3级",
+      "win_meter": "",
+      "sunrise": "07:14",
+      "sunset": "16:50",
+      "air": "100",
+      "air_level": "良",
+      "air_tips": "",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "08时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "11时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "8",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "14时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "12",
+          "win": "南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "17时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "8",
+          "win": "西南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "20时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "3",
+          "win": "西北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "3",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "北风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "中等",
+          "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较适宜",
+          "desc": "气温较低，在户外运动请注意增减衣物。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "较冷",
+          "desc": "建议着厚外套加毛衣等服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "2",
+      "uvDescription": "低"
+    },
+    {
+      "day": "01日（星期二）",
+      "date": "2026-12-01",
+      "week": "星期二",
+      "wea": "晴",
+      "wea_img": "qing",
+      "wea_day": "晴",
+      "wea_day_img": "qing",
+      "wea_night": "晴",
+      "wea_night_img": "qing",
+      "tem": "13",
+      "tem1": "13",
+      "tem2": "1",
+      "humidity": "42%",
+      "visibility": "17.99km",
+      "pressure": "1011",
+      "win": [
+        "南风",
+        "北风"
+      ],
+      "win_speed": "<3级",
+      "win_meter": "",
+      "sunrise": "07:15",
+      "sunset": "16:50",
+      "air": "114",
+      "air_level": "轻度污染",
+      "air_tips": "",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "08时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "2",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "11时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "东风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "14时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "12",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "17时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "10",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "20时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "8",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "5",
+          "win": "北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "3",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "1",
+          "win": "东北风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "中等",
+          "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较适宜",
+          "desc": "气温较低，在户外运动请注意增减衣物。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "较冷",
+          "desc": "建议着厚外套加毛衣等服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "2",
+      "uvDescription": "低"
+    },
+    {
+      "day": "02日（星期三）",
+      "date": "2026-12-02",
+      "week": "星期三",
+      "wea": "晴",
+      "wea_img": "qing",
+      "wea_day": "晴",
+      "wea_day_img": "qing",
+      "wea_night": "晴",
+      "wea_night_img": "qing",
+      "tem": "12",
+      "tem1": "12",
+      "tem2": "-1",
+      "humidity": "33%",
+      "visibility": "19.09km",
+      "pressure": "1013",
+      "win": [
+        "北风",
+        "东风"
+      ],
+      "win_speed": "<3级",
+      "win_meter": "",
+      "sunrise": "07:16",
+      "sunset": "16:50",
+      "air": "112",
+      "air_level": "轻度污染",
+      "air_tips": "",
+      "alarm": {
+        "alarm_type": "",
+        "alarm_level": "",
+        "alarm_content": ""
+      },
+      "hours": [
+        {
+          "hours": "08时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "2",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "11时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "9",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "14时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "12",
+          "win": "东风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "17时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "11",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "20时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "4",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "23时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "3",
+          "win": "东南风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "02时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "0",
+          "win": "东北风",
+          "win_speed": "<3级"
+        },
+        {
+          "hours": "05时",
+          "wea": "晴",
+          "wea_img": "qing",
+          "tem": "-1",
+          "win": "北风",
+          "win_speed": "<3级"
+        }
+      ],
+      "index": [
+        {
+          "title": "紫外线指数",
+          "level": "中等",
+          "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+        },
+        {
+          "title": "减肥指数",
+          "level": "较适宜",
+          "desc": "气温较低，在户外运动请注意增减衣物。"
+        },
+        {
+          "title": "血糖指数",
+          "level": "极不易发",
+          "desc": "无需担心过敏，可放心外出，享受生活。"
+        },
+        {
+          "title": "穿衣指数",
+          "level": "较冷",
+          "desc": "建议着厚外套加毛衣等服装。"
+        },
+        {
+          "title": "洗车指数",
+          "level": "适宜",
+          "desc": "天气较好，适合擦洗汽车。"
+        },
+        {
+          "title": "空气污染扩散指数",
+          "level": "中",
+          "desc": "易感人群应适当减少室外活动。"
+        }
+      ],
+      "uvIndex": "2",
+      "uvDescription": "低"
+    }
+  ],
+  "aqi": {
+    "update_time": "01:32",
+    "cityid": "101010100",
+    "city": "北京市",
+    "cityEn": "",
+    "country": "",
+    "countryEn": "",
+    "air": "96",
+    "air_level": "良",
+    "air_tips": "空气质量可接受，但某些污染物可能对极少数异常敏感人群健康有较弱影响。",
+    "pp": "细颗粒物(PM2.5)",
+    "pm25": "58",
+    "pm25_desc": "良",
+    "pm10": "94",
+    "pm10_desc": "良",
+    "o3": "5",
+    "o3_desc": "",
+    "no2": "67",
+    "no2_desc": "",
+    "so2": "3",
+    "so2_desc": "",
+    "co": "0.8",
+    "co_desc": "",
+    "kouzhao": "不用佩戴口罩",
+    "yundong": "适宜运动",
+    "waichu": "适宜外出",
+    "kaichuang": "适宜开窗",
+    "jinghuaqi": "不需要打开"
+  },
+  "nums": 101
+}
